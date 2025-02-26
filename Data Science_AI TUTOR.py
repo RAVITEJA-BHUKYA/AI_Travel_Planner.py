@@ -29,7 +29,7 @@ st.title("Data Science/AI TUTOR")
 user_input = st.text_area("Enter your query/issue", placeholder="Explain the concept of for loops")
 
 # Button to trigger the response
-btn_click = st.button("Click Me!")
+btn_click = st.button("Enter!")
 
 # When button is clicked, generate and display the response
 if btn_click:
